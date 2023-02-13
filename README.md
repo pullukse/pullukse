@@ -10,6 +10,8 @@ My name is Seray. I am a second year Master of Information student at the Facult
 
 I am from [Istanbul, Turkey](https://en.wikipedia.org/wiki/Istanbul) 🇹🇷 but have been living in [Toronto, ON](https://en.wikipedia.org/wiki/Toronto) 🇨🇦 since 2010. I love watching movies at [TIFF](https://tiff.net/) and check out new restaurants. Feel free to connect with me via GitHub or LinkedIn!
 
+<a href="http://www.github.com/hemansnation"><img src="https://github-readme-stats.vercel.app/api?username=hemansnation&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hemansnation's GitHub stats" /></a>
+
 <!--
 **pullukse/pullukse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
